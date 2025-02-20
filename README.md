@@ -105,7 +105,7 @@ The first step in setting up a CI/CD pipeline is to store your source code in a 
 
 If you haven't already, create a repository for your web application in a Git-based repository management platform, such as GitHub or GitLab. Make sure to push your latest code changes to the repository.
 
-gitclone 
+gitclone https://github.com/ankumpetvimala/CODTECHINTERNSHIP-Task1.git
 
 
 b. Create a sample web application (e.g., HTML/CSS/JavaScript, Node.js, Python Flask, etc.) and push it to the Git repository.
