@@ -5,7 +5,7 @@
 Setup Continuous Integration/Continuous Deployment (CI/CD) Pipeline using jenkins to automate the build, test, and deployment processes. Install and configure jenkins. Create a Jenkins pipeline to automate the build, test, and deploy a simple application.
 
 
-https://apps.openweaver.com/preview/vimalaankumpeta/11203%20Tech%20Company/home
+![codtechitsolutions]https://apps.openweaver.com/preview/vimalaankumpeta/11203%20Tech%20Company/home
 
 ## **System Requirements**: ##
 
